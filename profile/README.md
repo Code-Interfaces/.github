@@ -95,12 +95,13 @@ If you must miss a class, please email me in advance and include Siri in the cor
 
 ## Workshops
 
-- [Terminal/Shell Scripting](./Workshops/Terminal/README.md) 
-- [Adobe scripting](./Workshops/Adobe%20scripting/README.md)
-- [DrawBot](Workshops/OpenCV/README.md)
-- [Chrome Extensions](./Workshops/Chrome%20Extensions/README.md)
-- [ComfyUI](./Workshops/ComfyUI/README.md)
-- [Web Scraping](./Workshops/Web%20Scraping/README.md)
+- [Terminal/Shell Scripting](#) 
+- [Adobe scripting](#)
+- [DrawBot](#)
+- [Processing](#)
+- [Web Scraping](#)
+- [Encoding/Decoding Images](#)
+- [Computer Vision](#)
 
 ## Credits
 
