@@ -47,6 +47,10 @@ Throughout the semester, students will:
 
 Students are encouraged to integrate ideas or projects from other classes or thesis work, allowing this course to intersect meaningfully with their broader academic and creative goals. Together, we will interrogate, disrupt, and expand the role of tools, unveiling their unseen potential and reimagining their place within creative practice.
 
+## Schedule
+
+Find the schedule [here](https://docs.google.com/document/d/e/2PACX-1vRVC8Cwu-7bVNYvnduRSu64fnrroUcVvjKVCVsNkL1dZty-N1wLTTqlKdZwn6kkDDh4FX9Ns4at4sB5/pub).
+
 ## Readings
 
 Weekly assigned readings and active participation in group discussions are essential components of this course. Together, we will collaboratively create a **class commonplace book**—a shared space for collecting and reflecting on ideas.
