@@ -2,7 +2,7 @@
 
 Instructor: **Alvin Ashiatey**
 
-Course Assistant: **Theo France-Haggins** [Office Hours: (https://calendly.com/siri-lee/office-hours)]
+Course Assistant: **Theo France-Haggins** [Office Hours: By Appointment]
 
 ## Statement
 
