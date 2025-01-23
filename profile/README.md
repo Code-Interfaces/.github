@@ -95,7 +95,7 @@ If you must miss a class, please email me in advance and include Siri in the cor
 
 ## Workshops
 
-- [Terminal/Shell Scripting](../../shell-scripting/README.md)
+- [Terminal/Shell Scripting](https://github.com/Code-Interfaces/shell-scripting)
 - [Adobe scripting](#)
 - [DrawBot](#)
 - [Processing](#)
