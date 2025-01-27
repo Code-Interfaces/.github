@@ -68,7 +68,7 @@ The primary focus of this course is to collaboratively develop a repository of n
 
 ## Toolbox of Friction
 
-For this one-week group project, you will engage critically with the tools you use in your practice by introducing deliberate frictions into their functionality. Drawing inspiration from the resources provided, select one or more tools from your own practice and pair them with a prompt of friction from the references below.
+For this one-week group project, you will engage critically with the tools you use in your practice by introducing deliberate frictions into their functionality. Drawing inspiration from the reading material provided, select one or more tools from your own practice and pair them with a prompt of friction from this [are.na channel](https://www.are.na/art-754-code-and-interfaces-2025/friction-modifiers). These prompt serve as a starting point for your group project but you are encouraged to modify or expand upon them as needed.
 
 Your task is to create a work that responds to this intersection, designed specifically for the department’s 60-inch screen and staged in the atrium. This project invites you to explore how slowing down, disrupting, or complicating familiar workflows can reveal unexpected creative potentials and provoke deeper engagement.
 
