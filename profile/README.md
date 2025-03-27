@@ -19,7 +19,7 @@ Designed for those eager to innovate within new media, this course requires no p
 ## Course Description
 
 > “A tool is not produced to carry out a defined utilitarian task. Tools are born as challenges to existing concepts of utility. They open up new understanding of what could be useful. Utility is not a given unambiguous need. Ambiguity about utility is what drives new forms of utility.”
-> 
+>
 > Beatriz Colomina & Mark Wigley, are we human?: notes on an archaeology of design.
 
 In 1968, Douglas Engelbart famously demonstrated the transformative power of well-designed tools through an experiment involving a pencil taped to a brick. This “de-augmented” tool deliberately hindered the user, emphasizing how the design and ergonomics of tools profoundly shape human capabilities and experiences. The clumsiness of the brick-penciled contraption served to underscore how thoughtful tool design can not only solve problems but also shape the very way we think and act.
@@ -64,7 +64,9 @@ These contributions will be shared on our Arena channel, building a collective a
 
 ## Project
 
-The primary focus of this course is to collaboratively develop a repository of new tools. Each student will lead a workshop on the tool they have developed. Throughout the semester, in conjunction with our discussions on readings, you will be tasked with creating prompts relevant to your project.
+The primary objective of this course is to collaboratively create a comprehensive repository of new tools or new ways of using existing tools. Each student will design and develop their own tool, followed by staging it within its intended context of use. Students are required to produce a video documentation of at least 5 minutes, showcasing their tool. This video should be seen as an opportunity to reinterpret your tool in a new medium; feel free to edit and approach it as if you are creating an entirely new video piece inspired by your tool.
+
+Throughout the semester, alongside our discussions on assigned readings, you will also be responsible for generating prompts that are relevant to your project. This will help guide your creative process and enhance the overall learning experience.
 
 ## Toolbox of Friction
 
