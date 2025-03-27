@@ -64,9 +64,11 @@ These contributions will be shared on our Arena channel, building a collective a
 
 ## Project
 
-The primary objective of this course is to collaboratively create a comprehensive repository of new tools or new ways of using existing tools. Each student will design and develop their own tool, followed by staging it within its intended context of use. Students are required to produce a video documentation of at least 5 minutes, showcasing their tool. This video should be seen as an opportunity to reinterpret your tool in a new medium; feel free to edit and approach it as if you are creating an entirely new video piece inspired by your tool.
+The primary goal of this course is to collaboratively build a shared repository of new tools—or new ways of using existing ones. Each student will design and develop a tool of their own, then stage it within its intended context of use.
 
-Throughout the semester, alongside our discussions on assigned readings, you will also be responsible for generating prompts that are relevant to your project. This will help guide your creative process and enhance the overall learning experience.
+As part of this process, you’ll create a video documentation of your tool, with a minimum runtime of five minutes. Think of this not just as documentation, but as a creative reinterpretation—an opportunity to reimagine your tool through a new medium. Feel free to approach the video as its own standalone piece, inspired by and responding to your project.
+
+Throughout the semester, in parallel with our discussions of assigned readings, you’ll also be responsible for generating prompts that relate to your evolving project. These prompts will serve as both catalysts and companions to your creative process, deepening your engagement and contributing to our collective exploration of tools and their possibilities.
 
 ## Toolbox of Friction
 
