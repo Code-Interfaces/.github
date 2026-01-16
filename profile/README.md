@@ -64,9 +64,11 @@ These contributions will be shared on our Arena channel, building a collective a
 
 ## Project
 
-The goal of this course is to collaboratively develop a shared toolbox of design tools. In this class, a tool is not neutral or purely functional. It is a designed system that holds a process or way of working from your practice and shapes how actions are taken, decisions are made, and meanings are produced. Each tool should make clear how a process operates, repeats, or changes over time, and what assumptions or values are built into it.
+The goal of this course is to collaboratively develop a shared toolbox of design tools. In this class, a tool is not neutral or purely functional. It is a designed system that holds a process or way of working from your practice and shapes how actions are taken, decisions are made, and meanings are produced. Each student will individually propose and develop a tool they would use themselves and invite others to use. Over the course of the semester, these tools will circulate within the class, contributing to a collective toolbox.
 
-These tools act as interfaces through which your systems are accessed, performed, and understood. As a result, the design of the interface matters. Throughout the course, you will be asked to think critically about both what is visible in your tool and what remains hidden. This includes technical choices, forms of labor, cultural norms, and institutional or social structures that influence how a tool functions and how it is experienced. Rather than treating tools as things that simply serve a purpose, the course asks you to consider how tools actively shape behavior, perception, and authorship.
+Each tool should make clear how a process operates, repeats, or changes over time, and what assumptions, constraints, or values are built into it. Tools act as interfaces through which systems are accessed, performed, and understood, so attention to interface design is essential. Students are expected to think critically about both what is visible in their tool and what remains hidden, including technical choices, forms of labor, cultural norms, and institutional or social structures that shape how the tool functions and how it is experienced.
+
+As part of the project, students are required to produce a video documentation of at least five minutes that showcases their tool in use. This video should not be treated as neutral documentation. Instead, it should be approached as an opportunity to reinterpret the tool through a different medium. Students are encouraged to edit, frame, and structure the video as a new video work inspired by the tool, rather than a straightforward explanation or demonstration.
 
 ## Toolbox of Friction
 
