@@ -64,11 +64,9 @@ These contributions will be shared on our Arena channel, building a collective a
 
 ## Project
 
-The primary goal of this course is to collaboratively build a shared repository of new tools—or new ways of using existing ones. Each student will design and develop a tool of their own, then stage it within its intended context of use.
+The goal of this course is to collaboratively develop a shared toolbox of design tools. In this class, a tool is not neutral or purely functional. It is a designed system that holds a process or way of working from your practice and shapes how actions are taken, decisions are made, and meanings are produced. Each tool should make clear how a process operates, repeats, or changes over time, and what assumptions or values are built into it.
 
-As part of this process, you’ll create a video documentation of your tool, with a minimum runtime of five minutes. Think of this not just as documentation, but as a creative reinterpretation—an opportunity to reimagine your tool through a new medium. Feel free to approach the video as its own standalone piece, inspired by and responding to your project.
-
-Throughout the semester, in parallel with our discussions of assigned readings, you’ll also be responsible for generating prompts that relate to your evolving project. These prompts will serve as both catalysts and companions to your creative process, deepening your engagement and contributing to our collective exploration of tools and their possibilities.
+These tools act as interfaces through which your systems are accessed, performed, and understood. As a result, the design of the interface matters. Throughout the course, you will be asked to think critically about both what is visible in your tool and what remains hidden. This includes technical choices, forms of labor, cultural norms, and institutional or social structures that influence how a tool functions and how it is experienced. Rather than treating tools as things that simply serve a purpose, the course asks you to consider how tools actively shape behavior, perception, and authorship.
 
 ## Toolbox of Friction
 
