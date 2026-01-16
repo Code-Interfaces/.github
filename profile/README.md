@@ -2,7 +2,7 @@
 
 Instructor: **Alvin Ashiatey**
 
-Course Assistant: **Theo France-Haggins** [Office Hours: By Appointment]
+Course Assistant: **Hongting Zhu** [Office Hours: By Appointment]
 
 ## Statement
 
